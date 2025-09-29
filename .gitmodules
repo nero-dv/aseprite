@@ -44,10 +44,10 @@
 	url = https://github.com/aseprite/tinyexpr.git
 [submodule "third_party/lua"]
 	path = third_party/lua
-	url = https://github.com/aseprite/lua
+	url = https://github.com/nero-dv/lua.git
 [submodule "third_party/curl"]
 	path = third_party/curl
-	url = https://github.com/aseprite/curl.git
+	url = https://github.com/nero-dv/curl.git
 [submodule "third_party/IXWebSocket"]
 	path = third_party/IXWebSocket
 	url = https://github.com/aseprite/IXWebSocket.git
