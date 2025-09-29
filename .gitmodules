@@ -20,7 +20,7 @@
 	ignore = dirty
 [submodule "third_party/libpng"]
 	path = third_party/libpng
-	url = https://github.com/aseprite/libpng.git
+	url = https://github.com/nero-dv/libpng.git
 [submodule "src/observable"]
 	path = src/observable
 	url = https://github.com/aseprite/observable.git
