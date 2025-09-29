@@ -7,9 +7,6 @@
 [submodule "third_party/libwebp"]
 	path = third_party/libwebp
 	url = https://github.com/nero-dv/libwebp.git
-[submodule "src/flic"]
-	path = src/flic
-	url = https://github.com/aseprite/flic.git
 [submodule "third_party/freetype2"]
 	path = third_party/freetype2
 	url = https://github.com/aseprite/freetype2.git
@@ -21,18 +18,9 @@
 [submodule "third_party/libpng"]
 	path = third_party/libpng
 	url = https://github.com/nero-dv/libpng.git
-[submodule "src/observable"]
-	path = src/observable
-	url = https://github.com/aseprite/observable.git
-[submodule "src/undo"]
-	path = src/undo
-	url = https://github.com/aseprite/undo.git
-[submodule "laf"]
-	path = laf
-	url = https://github.com/aseprite/laf.git
 [submodule "third_party/cmark"]
 	path = third_party/cmark
-	url = https://github.com/aseprite/cmark.git
+	url = https://github.com/nero-dv/cmark.git
 [submodule "third_party/harfbuzz"]
 	path = third_party/harfbuzz
 	url = https://github.com/aseprite/harfbuzz.git
@@ -57,9 +45,6 @@
 [submodule "third_party/lua"]
 	path = third_party/lua
 	url = https://github.com/aseprite/lua
-[submodule "src/tga"]
-	path = src/tga
-	url = https://github.com/aseprite/tga.git
 [submodule "third_party/curl"]
 	path = third_party/curl
 	url = https://github.com/aseprite/curl.git
@@ -69,9 +54,6 @@
 [submodule "third_party/cityhash"]
 	path = third_party/cityhash
 	url = https://github.com/aseprite/cityhash.git
-[submodule "src/psd"]
-	path = src/psd
-	url = https://github.com/aseprite/psd.git
 [submodule "third_party/qoi"]
 	path = third_party/qoi
 	url = https://github.com/aseprite/qoi.git
@@ -81,3 +63,21 @@
 [submodule "third_party/TinyEXIF"]
 	path = third_party/TinyEXIF
 	url = https://github.com/aseprite/TinyEXIF.git
+[submodule "src/observable"]
+	path = src/observable
+	url = https://github.com/aseprite/observable.git
+[submodule "src/flic"]
+	path = src/flic
+	url = https://github.com/aseprite/flic.git
+[submodule "src/psd"]
+	path = src/psd
+	url = https://github.com/aseprite/psd.git
+[submodule "src/tga"]
+	path = src/tga
+	url = https://github.com/aseprite/tga.git
+[submodule "src/undo"]
+	path = src/undo
+	url = https://github.com/aseprite/undo.git
+[submodule "laf"]
+	path = laf
+	url = https://github.com/aseprite/laf.git
